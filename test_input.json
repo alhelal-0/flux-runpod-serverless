@@ -1,0 +1,10 @@
+{
+  "input": {
+    "prompt": "a cozy wooden cabin in a snowy forest at golden hour, highly detailed digital art",
+    "height": 1024,
+    "width": 1024,
+    "guidance_scale": 3.5,
+    "num_inference_steps": 28,
+    "seed": 42
+  }
+}
